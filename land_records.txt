@@ -1,0 +1,10 @@
+201, Bhaktapur, West, 6, 45000, Not Available
+202, Dharan, East, 7, 55000, Available
+203, Chitwan, South, 8, 75000, Not Available
+204, Kathmandu, North, 9, 80000, Available
+205, Pokhara, East, 10, 70000, Not Available
+206, Birgunj, West, 11, 40000, Not Available
+207, Biratnagar, South, 12, 50000, Available
+208, Lalitpur, North, 13, 90000, Available
+209, Sindhupalchowk, West, 14, 65000, Available
+210, Baglung, East, 15, 75000, Not Available
